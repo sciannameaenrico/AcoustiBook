@@ -1,0 +1,3 @@
+AcoustiBook è un'applicazione web progettata per la gestione, la prenotazione e il tracciamento delle risorse acustiche impiegate nelle misure fonometriche in ambito di ingegneria acustica.
+Il sistema consente agli utenti autorizzati di consultare in tempo reale la disponibilità degli strumenti, effettuare prenotazioni in modo semplice e strutturato e registrare l’utilizzo delle apparecchiature tramite tecnologia NFC.
+Grazie a queste funzionalità, AcoustiBook migliora l’organizzazione delle risorse, riduce il rischio di conflitti o utilizzi non autorizzati e garantisce una gestione più efficiente e tracciabile delle attività di misura.
